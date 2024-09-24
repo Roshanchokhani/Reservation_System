@@ -1,3 +1,3 @@
-# Local Train Reservation Syatem 
+# Local Train Reservation System 
 
 
